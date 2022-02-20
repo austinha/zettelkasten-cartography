@@ -1,0 +1,10 @@
+## Metadata
+* URL: [https://www.nytimes.com/2021/06/30/opinion/education-covid-pandemic-principals.html](https://www.nytimes.com/2021/06/30/opinion/education-covid-pandemic-principals.html)
+* Published Date: 2021-06-30
+* Author: [[Emily Richmond]]
+
+## Highlights
+* In our conversation, the principals talked about how there’s a renewed sense of appreciation for the role schools play as community anchors. As Deborah Rogers, principal of Patrick Henry Downtown Academy in St. Louis put it, a school “provides service after service after service.” That, she said, was “a hard thing for people not in education to see until it was all taken away.”
+* The real “aha” moment for myself was thinking about all of our kids who are usually late or were already slipping through the cracks. When I realized that we were going 100 percent virtual, my initial thought was: “How many kids are we going to lose? How many parents are we going to lose?”
+* Another concern was transportation. Is the district going to be providing transportation for staff not willing to take public transportation?
+* In spring 2020, I think the community was extremely supportive, grateful for teachers and schools for providing the resources that students needed to work remotely. It became strained when remote learning continued through the end of last year and kids were trying to wrap up their courses and get their credits. The community’s trust was challenged again in the fall. For some, reopening made them a little bit uneasy, not necessarily knowing what the protocols would look like, whether or not they would be strictly adhered to and followed by students and staff members at school. And it just created a bit of unease and stress. “Do I or don’t I send my son or daughter back to school, not exactly knowing what it looks like?”

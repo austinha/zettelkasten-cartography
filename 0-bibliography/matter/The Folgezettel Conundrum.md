@@ -1,0 +1,30 @@
+## Metadata
+* URL: [https://medium.com/@ethomasv/the-folgezettel-conundrum-20b14dc986ec](https://medium.com/@ethomasv/the-folgezettel-conundrum-20b14dc986ec)
+* Published Date: 2020-08-23
+* Author: [[Eva Thomas]]
+
+## Highlights
+* Folgezettel is a fancy name for a nested sequence of ideas.
+* Luhmann used unique alpha-numerical IDs to map the notes. It is like adding names to notes and arranging them alphabetically. If we know the ID of the note, we can locate it in a few seconds.
+  * **Note**: ids were key to note access.
+* We have two choices when adding a new note. We can add it to the end and record all possible connections as references. The second choice is to pick one of the related notes and put a new note after it, while recording other possible locations as references. Luhmann decided to use the second approach, and he called it internal branching. Each note is related to the preceding note, and it has a proper ID that illustrates the branching. If we are adding a new note after note 1, it becomes note 2. If we already have note 2, the new one becomes 1a. By creating these branches, we are constructing Folgezettels. We are developing sequences of connected ideas. This strategy implies that we can add an indefinite number of notes anywhere in the box.
+* Let’s say we are adding a new note related to 3b, 4c11, 4d, and 7a10. We decided to place it after note 3b, so it becomes 3b1. Although it could be positioned after all of them equally, we will store other connections as references. The downside of this is the fact that with time we will develop this primary sequence more and more while neglecting the other three. Next time we branch inwardly from 3b1, a new note will be 3b1a and it will be related to the overall context of the 3b sequence.
+* In theory, 3b1a note can be a branch of 3b, 4c11, 4d, or 7a10 sequence, because its parent 3b1 belongs to all of these sequences. In practice, 3b1a will be related only to 3b, because that is something we can clearly track with IDs. I call this Folgezettel deception.
+* Linear arrangement of notes in the form of an array or a list can deceive us into thinking that each note has only one parent - note that is one level above in the sequence. For example, 3b1 is a parent of 3b1a and 3b1b.
+* Reference is an abstraction of location,
+* Nesting presupposes linear branching, while Zettelkasten thrives on radial branching.
+* It is not possible to portray radial branching in the physical slip-box, where notes organization is linear, in the form of a one-dimensional chain.
+* If note belongs to three sequences, in radial branching the first note of each sequence should be equally distanced from the observed note. It ensures that, in the moment of interaction, we will be able to compare these sequences objectively and choose one that is currently relevant regardless of its position and context.
+  * **Note**: while the wording here is a little unclear, i think the point is important: at the time of use for a given note, when we are “communicating” with our slip box, we want to be able to follow any related Folgezettel (am i using this term correctly?) rather than the “privileged” one – that is, the one where it is physically placed. in theory, this should be an issue in a physical zettelkasten as long as we are willing to follow a reference, but in practice, we would likely tend to follow the physically close branch – not an ideologically-close one that might be better for the current question being answered.
+* If we are not able to see all these linked notes at a glance, we will be biased towards the closer one, although it might not be the most relevant.
+* it is fair to ask: “Do we even need sequences?”
+* we might find one note from this sequence through its reference and decide it is a good argument we could use in our writing.
+* every time we add a reference to the note, we are investing it into a context. If we decide one day that a specific context related to that note is of interest for our current thinking, it is useful to have the option to see other notes related to the same context. It provides essential clarity we need to articulate our ideas.
+* faster navigation.
+* If we adopt the assumption that Folgezettel is a special type of reference between notes, we are getting too attached to nesting as a method of keeping track of sequences. And there is a better way.
+* Let’s take a look at the 3b1 note one more time. As we said, it is related to notes 3b, 4c11, 4d, and 7a10. We want to keep track of all these sequences, so we will use separate notes instead of ID nesting method. At the top of each sequence note, we add a short description of what topic or question the sequence is tackling. We add a list of notes that belong to the sequence, with their corresponding IDs and titles. In a digital database, it is easy to insert a new line, while in the physical slip-box we will need to re-write the note from time to time.
+* One idea becomes a functional part of more than one branch. We can’t predict what branch will be important to us in the future. Therefore, we must keep all branches available for further expansion.
+* Folgezettels are now outlines written on separate notes, as we mentioned in the previous section. Since we are working with digital workspace, if we need to insert a new note in the middle of the outline, all we have to do is hit the Return key.
+* To see all sequences the note belongs to, we will add the ID of each sequence note to the original note as a reference.
+* We are not constructing Folgezettels inside the slip-box as an outline for our writing, although we can use them for that purpose as well. Everything that is in the slip-box is abstracted from any project type of organization.
+* The main reason for creating sequences inside the slip-box is to have an elaborated, well-articulated context for our ideas and thoughts.

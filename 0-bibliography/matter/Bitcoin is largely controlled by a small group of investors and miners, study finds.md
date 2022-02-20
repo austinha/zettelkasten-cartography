@@ -1,0 +1,6 @@
+## Metadata
+* URL: [https://www.techspot.com/news/91937-bitcoin-largely-controlled-small-group-investors-miners-study.html](https://www.techspot.com/news/91937-bitcoin-largely-controlled-small-group-investors-miners-study.html)
+
+## Highlights
+* According to a new study from the National Bureau of Economic Research (NBER) via Bloomberg, the top 10,000 individual Bitcoin investors control roughly one third of the cryptocurrency in circulation. It can be difficult to differentiate individual owners from larger groups and exchanges that hold currency for many users, but the NBER was able to skirt this challenge by using a specific data collection method capable of making the distinction. What they discovered is that at the end of last year, the top 10,000 individual owners controlled about 8.5 million Bitcoins while the top groups oversaw closer to 5.5 million Bitcoins.
+* the researchers note that their measurement of concentration is most likely an understatement since they can’t rule out that some of the largest addresses are controlled by the same entity.

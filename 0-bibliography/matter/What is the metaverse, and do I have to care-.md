@@ -1,0 +1,12 @@
+## Metadata
+* URL: [https://www.theverge.com/22701104/metaverse-explained-fortnite-roblox-facebook-horizon](https://www.theverge.com/22701104/metaverse-explained-fortnite-roblox-facebook-horizon)
+* Published Date: 2021-10-04
+* Author: [[Adi Robertson]]
+
+## Highlights
+* “The Metaverse is an expansive network of persistent, real-time rendered 3D worlds and simulations that support continuity of identity, objects, history, payments, and entitlements, and can be experienced synchronously by an effectively unlimited number of users, each with an individual sense of presence.”
+* “The ‘metaverse’ is a set of virtual spaces where you can create and explore with other people who aren’t in the same physical space as you.”
+* There are also broader metaverse-related taxonomies like one from game designer Raph Koster, who draws a distinction between “online worlds,” “multiverses,” and “metaverses.” To Koster, online worlds are digital spaces — from rich 3D environments to text-based ones — focused on one main theme. Multiverses are “multiple different worlds connected in a network, which do not have a shared theme or ruleset,” including Ready Player One’s OASIS. And a metaverse is “a multiverse which interoperates more with the real world,” incorporating things like augmented reality overlays, VR dressing rooms for real stores, and even apps like Google Maps.
+* “a magical Zoom meeting that has all
+* Matthew Ball favors the term “metaverse” because it creates a clean break with the present-day internet. “Using the metaverse as a distinctive descriptor allows us to understand the enormity of that change and in turn, the opportunity for disruption,” he said in a phone interview with The Verge. “It’s much harder to say ‘we’re late-cycle into the last thing and want to change it.’ But I think understanding this next wave of computing and the internet allows us to be more proactive than reactive and think about the future as we want it to be, rather than how to marginally affect the present.”
+* NFTs are a way of recording who owns a specific virtual good, creating and transferring virtual goods is a big part of the metaverse, thus NFTs are a potentially useful financial architecture for the metaverse.

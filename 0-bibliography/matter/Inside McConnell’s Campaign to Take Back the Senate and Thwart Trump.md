@@ -1,0 +1,9 @@
+## Metadata
+* URL: [https://www.nytimes.com/2022/02/13/us/mcconnell-trump-primaries-midterms.html](https://www.nytimes.com/2022/02/13/us/mcconnell-trump-primaries-midterms.html)
+* Published Date: 2022-02-13
+* Author: [[Jonathan Martin]]
+
+## Highlights
+* In conversations with senators and would-be senators, Mr. McConnell is blunt about the damage he believes Mr. Trump has done to the G.O.P., according to those who have spoken to him. Privately, he has declared he won’t let unelectable “goofballs” win Republican primaries.
+* Even more pointedly, Mr. McConnell vowed that if Senator John Thune of South Dakota, the second-ranking Senate Republican, faces the primary that Mr. Trump once promised, Mr. Thune “will crush whoever runs against him.” (The most threatening candidate, Gov. Kristi Noem, has declined.) The Senate Republican leader has been worried that Mr. Trump will tap candidates too weak to win in the general election, the sort of nominees who cost the party control of the Senate in 2010 and 2012. “We changed the business model in 2014, and have not had one of these goofballs nominated since,” he told a group of donors on a private conference call last year, according to a recording obtained by The New York Times.
+* “He has become more judicious so not everybody who runs down to Mar-a-Lago for the weekend gets endorsed on Monday,” said Senator Kevin Cramer of North Dakota, another Trump ally. Mr. Trump has made clear he wants the Senate candidates he backs to oust Mr. McConnell from his leadership perch, and even considered making a pledge to do so a condition of his endorsement. Few have done so to date, a fact Mr. McConnell considers a victory. “Only two of them have taken me on,” he crowed, alluding to Ms. Tshibaka in Alaska, and Eric Greitens, the former Missouri governor running for an open seat.

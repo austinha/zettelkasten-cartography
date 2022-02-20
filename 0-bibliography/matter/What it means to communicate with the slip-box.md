@@ -1,0 +1,29 @@
+## Metadata
+* URL: [https://medium.com/@ethomasv/understanding-zettelkasten-d0ca5bb1f80e](https://medium.com/@ethomasv/understanding-zettelkasten-d0ca5bb1f80e)
+* Published Date: 2020-08-23
+* Author: [[Eva Thomas]]
+
+## Highlights
+* the end goal of Zettelkasten is not gathering and collecting notes, but rather creating a competent and knowledgeable communication partner.
+* Luhmann believed that the only way to create a communication partner that will be increasingly valuable with time is to keep notes organization open.
+* Luhmann organized notes by putting them one after the other. The decision about where the note will be placed wasn’t made because it fits organizationally to that location, but because it is contextually congruent with the preceding note.
+* If we want to place a new note between notes 4 and 5, a new note becomes 4a. 4a can be supplemented by 4a1 and so on. Luhmann called this internal branching.
+* in the physical slip-box, we must choose one position as a physical location of the card, and we will denote other choices by adding references to the card. The beauty of the Zettelkasten is that we don’t have to choose just one option — a new note can be stored in all relevant locations.
+* IDs can have an additional function: to indicate that certain notes are part of the same sequence.
+* For example, every note that begins with 4a7, like 4a7a, 4a7b, 4a7b1, can be considered as a link in a long chain of thoughts.
+* I believed that notes in the chain have a specific type of connection, different than references written on cards. Therefore, I thought these sequences are an important structural concept. However, Luhmann pointed out that the position of a single note in the physical slip-box is not privileged. We need to place the note somewhere. The references on the note will indicate other possible positions, but the fact that we have to pick one position as its primary physical location doesn’t mean that this specific location, or relation with surrounding cards, is more significant compared to other references.
+* location of the note doesn’t indicate special reference, and that relation to surrounding notes is not privileged
+* Keeping track of sequences is beneficial because we can use a long thread of thoughts for our writing. It is ready for us — we don’t have to re-read a stack of notes to assemble a coherent combination of arguments.
+* Luhmann used separate notes to keep track of sequences. He would add a title or a keyword to the top, elaborating on what concept he is specifying with the outline by writing a list of notes with their corresponding IDs and titles. Using separate notes for this is practical because it allows us to keep track of all sequences of the same note.
+* Luhmann considered referencing to be the crucial feature of his system. He believed that the quality of the note is determined by the quality, not quantity, of its references.
+* The purpose of internal references between cards is not to accumulate ideas around a broad concept, but to ensure unexpected insights. Therefore, references must be very selective.
+* Two notes are contextually congruent if you can use their combination to answer a question or to solve a problem.
+* if they are just related, but not contextually harmonious, they might tackle a similar topic or share the same keyword, but their combination doesn’t carry greater meaning than their individual meanings. This is an important aspect that distinguishes the Zettelkasten from a Wiki database.
+  * **Note**: this suggests a reason to support tagging in digital Zettelkasten: we can use search to slice and dice in the context of the note instead of updating an index.
+* Two notes connected with a reference, when observed as a combination, can rise to a higher abstraction level than each one of them individually.
+* For example, if I have a note that defines communication as an exchange of information and thoughts where partners can surprise and teach each other, and I have a note that says that internal structure of the Zettelkasten can cultivate creativity by revealing surprising connections between notes independent of the original references when the notes were initially created — I can combine these two into an argument that Zettelksten can act as a communication partner. But if I look for references only in the same area of interest, I am limiting the potential for future discoveries.
+* If the goal is to develop a communication partner, we must seek relations by thinking of problems and questions that connect ideas and arguments that have no straightforward or obvious relation. It will provide combinations of ideas that were never planned or preconceived.
+* If you are trying to examine your slip-box with a specific ask, and you go through your notes, but you have so many connections and so many of them are vague and general, you will spend so much time re-reading them to find something purposeful, that you will probably get distracted or lose interest altogether.
+* The references we can make when we are adding a note to the slip-box won’t be the same as those we discover while we search with a specific question in mind. Through this process, we can find new connections between previously unrelated notes and to create something that Luhmann named “relations of relations”.
+* Our writing is not a result of simply copying what is already in the slip-box.
+* True value of the slip-box becomes clear when we combine ideas and take them to the higher level of abstraction to articulate an answer to our question by creating relations of relations type of references between previously unconnected ideas, references relevant to that specific query that couldn’t be anticipated before.

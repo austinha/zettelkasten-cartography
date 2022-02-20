@@ -1,0 +1,16 @@
+## Metadata
+* URL: [https://www.fastcompany.com/90702587/oregon-trail-computer-game-50th-anniversary](https://www.fastcompany.com/90702587/oregon-trail-computer-game-50th-anniversary)
+* Published Date: 2021-12-04
+* Author: [[Greg Toppo]]
+
+## Highlights
+* On Dec. 3, Rawitsch dialed the number to the district’s mainframe, snuggled a telephone receiver into place, and began moving groups of students through the game’s paces. It was an instant hit. Students came to Rawitsch, asking if they could play before or after class. Lines would form down the hall each morning as students waited for a chance to try again. For many, it was the first time they’d sat down in front of anything even resembling a computer.
+* “They’d use this as an opportunity to do some group problem-solving,” he said, recalling arguments about who exactly did what in the game. “After a while, when they figured out that their time in class was going to run out if they kept wasting time arguing over decisions, somebody said, ‘Well, why don’t we vote on it?’ So they kind of created democracy on the fly.”
+* Each democracy also functioned as a meritocracy—the hunting mini-games required players to type words like BANG or BLAM as quickly and accurately as possible. Kids recruited the best typist in the group.
+* while most schools at the time looked upon computers simply as tools to, well, teach about programming more computers, MECC’s founders took a broader view, creating a library of instructional software on a variety of topics that any school statewide could use for free.
+* A new generation of coders added graphics, sounds, and music to create the versions of The Oregon Trail that most kids have played since.
+  * **Note**: open-source?
+* The Oregon Trail didn’t actually represent the first known use of a computer simulation in school, said Jon-Paul Dyson, director of the International Center for the History of Electronic Games at the Strong Museum of Play in Rochester, N.Y.. That honor goes to a group of IBM programmers and teachers in Westchester County, N.Y., who in the mid-1960s developed The Sumerian Game, a sort of Dungeons and Dragons in the Fertile Crescent.
+* The Oregon Trail stands out for being sensitive to its players—many of Rawitsch’s students were Native American, and the designers were aware of that. “One of the things that the game doesn’t do, for instance, is have the pioneers fighting Indians,” Dyson said. “It would’ve been very highly likely that a game in the ’70s would have that. But in fact, the interactions with Indians and Native Americans in there, it’s generally about providing food or that sort of thing.”
+* Starting with the BANG-generated hunting, the game basically invented the mini-game,
+* “What’s really interesting is that obviously when you are making decisions, you are deviating from historical realities, because history is set and done,” he said. But in making that leap, players immediately begin to understand why historical figures made the decisions they made. “It actually helps cultivate a historical mindset,” he said, because players are wondering about subjects’ motives: “Why did they want to go out west? Why would they want to suffer? Why did they make these decisions? Why did they cross the river and not take a bridge?”
