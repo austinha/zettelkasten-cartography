@@ -13,9 +13,9 @@ The following are actually more controversial at the moment:
 
 [^8]: [[Thomas, 2020]]
 [^9]: [[Sascha, October 2015]]
-[^10]: [[Comparative Filing]]
+[^10]: [[{2,1 } Comparative Filing]]
 [^11]: [[Luhmann, n.d.]]
-[^12]: [[Linear Branching vs. Radial Branching]]
-[^13]: [[The myopic nature of Folgezettel make connections less meaningful]]
+[^12]: [[{5,1 } Linear Branching vs. Radial Branching]]
+[^13]: [[{1,2,2,2} The myopic nature of Folgezettel make connections less meaningful]]
 [^15]: "filtered by nothing but our interest" (Ahrens, How to Take Smart Notes)
 [^16]: todo, ahrens, etc.

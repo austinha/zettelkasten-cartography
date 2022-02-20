@@ -19,6 +19,6 @@ It's possible that this is useful because you embed a note in a particular conte
 [^2]: [[argonsnorts, April 2020#Comment 2]]
 [^3]: [[MikeBraddock, March 2020]]
 [^4]: [[alkhan, March 2020]]
-[^5]: [[Folgezettel rob hierarchy of meaning]]
-[^6]: [[Folgezettel are myopic]]
+[^5]: [[{1,1,1 } Folgezettel rob hierarchy of meaning]]
+[^6]: [[{1,2,2 } Folgezettel are myopic]]
 [^7]: [[pseudoevagrius, April 2020, Is there a benefit to Luhmann IDs vs. DateTime IDs?#Comment 1]]

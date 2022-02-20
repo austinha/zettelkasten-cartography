@@ -1,7 +1,7 @@
 See also: 
-- [[Folgezettel Debate]]
-- [[Properties of Structure Zettel]]
-- [[Properties of Folgezettel]]
+- [[{1 } Folgezettel Debate]]
+- [[{1,3 } Properties of Structure Zettel]]
+- [[{1,2 } Properties of Folgezettel]]
 
 # Comparative filing
 Folgezettel force **LOCAL **comparative filing 
@@ -16,8 +16,8 @@ Structure Zettel allow comparative filing but emphasize **broader views**.
 - semantic relationships
 + ---→ immediate, explicit, and "tangible"[^1] thought trains expressed as "meaningful hierarchy"[^1]
 
-[[Meaningless Folgezettel hierarchies can be useful]]
-[[Structure Zettels' centralization requires maintenance]]
+[[{1,1,1,1 } Meaningless Folgezettel hierarchies can be useful]]
+[[{1,3,4,2 } Structure Zettels' centralization requires maintenance]]
 - the nexus of opposed hierarchies is a single note.
     - this manifests in folgezettel through discovery – these opposed hierarchies are not artiulated but surfed
     - this manifests in structure zettel through a single note's placement in multiple hierarchies (and thus browsing backlinks)
@@ -49,6 +49,6 @@ aside: luhmann's zettelkasten can be reduced to a single large structure note
 [^1]: [[Sascha, 2020]]
 [^2]: [[pseudoevagrius, April 2020, Hierarchical Branched Note Taking and The Archive App(is topography important?)#Comment 1]]
 [^3]: [[Luhmann, n.d.]]
-[^4]: [[Structure Zettel are hierarchical]]
-[^5]: [[Linear Branching vs. Radial Branching]]
-[^6]: [[Sascha's Structure Notes]]
+[^4]: [[{1,3,1 } Structure Zettel are hierarchical]]
+[^5]: [[{5,1 } Linear Branching vs. Radial Branching]]
+[^6]: [[{1,4,2 } Sascha's Structure Notes]]

@@ -2,10 +2,10 @@
 
 # Properties of Luhmann's Zettelkasten
 The following were important properties of Luhmann's _physical_ Zettelkasten:
- - [[Unique Card Identifiers in Zettelkasten]]
- - [[Atomicity of Notes in Zettelkasten]]
- - [[Properties of Folgezettel]]
-    - [[Properties of Luhmann IDs]]
+ - [[{3 } Unique Card Identifiers in Zettelkasten]]
+ - [[{2,2 } Atomicity of Notes in Zettelkasten]]
+ - [[{1,2 } Properties of Folgezettel]]
+    - [[{4,1,1 } Properties of Luhmann IDs]]
 
 Sascha adds[^1]:
 - Hierarchy

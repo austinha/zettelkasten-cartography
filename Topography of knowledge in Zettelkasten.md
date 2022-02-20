@@ -10,4 +10,4 @@ I would expand on this to say that the Topography of a Zettelkasten mirrors the 
 
 [^1]: [[iiiii, March 2020, Hierarchical Branched Note Taking and The Archive App(is topography important?)]]
 [^2]: [[pseudoevagrius, March 2020, Is the three-layer structure of evidence a generally useful principle?]]
-[^7]: [[Structure Zettel lack "topography"]]
+[^7]: [[{1,3,5 } Structure Zettel lack "topography"]]

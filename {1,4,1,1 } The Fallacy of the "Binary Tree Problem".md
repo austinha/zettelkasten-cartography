@@ -1,4 +1,4 @@
-As argonsnorts articulates, [[The "Binary Tree Problem" in Luhmann's Zettelkasten]] isn't actually an issue that existed because the links were arbitrary and inconsistent. For example (edited for visual clarity): 
+As argonsnorts articulates, [[{1,4,1 } The "Binary Tree Problem" in Luhmann's Zettelkasten]] isn't actually an issue that existed because the links were arbitrary and inconsistent. For example (edited for visual clarity): 
 > To illustrate the problem, a simple list of Luhmann-ID'd notes like the following could be internally related in a whole host of ways:
 > 
 > `{2,2,a,1}`

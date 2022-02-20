@@ -8,7 +8,9 @@ Folgezettel, in Luhmann's archive, were only related to the single previous note
 
 > When I make a Luhmann number it connects one note to another note. Easy. That's the focus. Just link to one note.[^4]
 
-It's possible that [[Folgezettel are not hierarchy]] because they are myopic.
+It's possible that [[{1,1,2 } Folgezettel are not hierarchy]] because they are myopic.
+
+See: [[{3,2,1 } Disadvantages of Internal Branching]]
 
 [^1]: [[Thomas, 2020]]
 [^2]: [[Sascha, 2016]]

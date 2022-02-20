@@ -2,4 +2,6 @@
 
 this claim, i think, is controversial but insightful. one problem that physical Zettelkasten solve is the externalization of where to find information. that said, i think some would claim that you must also take into account the role of serendipity in the effectiveness of physical Zettelkasten – when there is some randomness in a system, it can make it more likely that unanticipated connections are made.
 
+See: [[{1,2,4 } Folgezettel intrinsically suggest connections]]
+
 [^1]: [[Sascha, 2020]]
