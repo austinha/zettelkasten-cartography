@@ -1,0 +1,1 @@
+Notes are "atomic" in [[Luhmann's Slip Box]] in the sense that they were small enough to fit on a notecard and could be selected and rearranged to be combined in different contexts and orders. It is a myth that Luhmann only wrote "one idea" on each card, though this is a good heuristic.
