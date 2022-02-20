@@ -4,5 +4,10 @@
 @Perikles notes:
 > The Luhmann-ID does the structure Zettel, no extra work required.[^2]
 
+Next: [[Folgezettel intrinsically suggest connections]]
+Next: [[Folgezettel externalize memory of position]]
+Next: [[Folgezettel postpone the articulation of meaning]]
+
+
 [^1]: [[MikeBraddock, April 2020]]
 [^2]: [[Perikles, April 2020]]

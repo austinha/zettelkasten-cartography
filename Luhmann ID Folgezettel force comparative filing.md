@@ -3,5 +3,7 @@ If you use Folgezettel, when filing a new note, you _must_ find a place to file 
 
 > I am forced to make up my mind, where to put the Zettel. Which in turn clarifies the boundaries of the Zettel contents-wise. It becomes clear very fast, when a Zettel is finished.[^2]
 
+Next: [[Note sequencing links automatically]]
+
 [^1]: [[Taylor, April 2020]]
 [^2]: [[Perikles, April 2020]]

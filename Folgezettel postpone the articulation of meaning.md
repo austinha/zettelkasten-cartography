@@ -14,5 +14,7 @@ from @argonsnorts:
 @pseudovagrius immediately agrees:
 > The structure note front loads this cognitive task or skips it by operating on assumptions or on conclusions from other work/notes as opposed to the ones internal to the structure note. Of course, you can let the internal structure of the notes change as you process them further and add new notes, but this can get untenable quick depending on how many notes you are dealing with.[^2]
 
+Next: [[Folgezettel encode non-semantic relationships]]
+
 [^1]: [[argonsnorts, April 2020#Comment 2]]
 [^2]: [[pseudoevagrius, April 2020, Is there a benefit to Luhmann IDs vs. DateTime IDs?#Comment 2]]

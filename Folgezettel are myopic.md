@@ -10,6 +10,11 @@ Folgezettel, in Luhmann's archive, were only related to the single previous note
 
 It's possible that [[Folgezettel are not hierarchy]] because they are myopic.
 
+Next: [[Folgezettel are for direct connection]]
+Next: [[The myopic nature of Folgezettel make connections less meaningful]]
+Next: [[Folgezettel create decentralized structure]]
+Next: [[Folgezettel postpone the articulation of meaning]]
+
 [^1]: [[Thomas, 2020]]
 [^2]: [[Sascha, 2016]]
 [^3]: [[Sascha, 2020]]

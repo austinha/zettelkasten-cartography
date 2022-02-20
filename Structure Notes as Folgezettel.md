@@ -2,6 +2,8 @@ Thomas[^1] suggests that we should utilize special notes as [[Folgezettel (pkm)]
 
 The reason we can use Structure Notes to replace Folgezettel is because "both Folgezettel and Structure Zettel are means to remove meaning from position in a hierarchy"[^3].
 
+Next: [[Thomas on the power of structure notes as folgezettel]]
+
 [^1]: [[Thomas, 2020]]
 [^2]: [[Creating A Digital Zettelkasten that Mimics the Strengths of Luhmann's Physical Box]]
 [^3]: [[Sascha, 2020]]

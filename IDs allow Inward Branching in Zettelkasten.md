@@ -2,6 +2,8 @@
 
 Additionally, these Folgezettels were the foundation of bottom-up topic creation[^2].
 
+Next: [[Linear Branching vs. Radial Branching]]
+
 [^1]: [[Thomas, 2020]]
 [^2]: [[Fixed Numbers Allow Bottom-Up Topic Creation]]
 [^3]: [[Sascha, 2020]]

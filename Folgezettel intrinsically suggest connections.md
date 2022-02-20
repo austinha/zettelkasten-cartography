@@ -15,6 +15,8 @@ It's possible that this is useful because you embed a note in a particular conte
 > When I make a Luhmann number it connects one note to another note. Easy. That's the focus. Just link to one note[^6].   
 > But it also produces a lot of implicit relationships to other notes. Whether these relationships will be relevant or not is up to me to work out later, but what the Luhmann number provides is added context to the note in a systematic way so that it is never lost.[^7]
 
+Next: [[Folgezettels' decentralization creates emergent behavior]]
+
 [^1]: [[argonsnorts, March 2020, Is there a benefit to Luhmann IDs vs. DateTime IDs?]]
 [^2]: [[argonsnorts, April 2020#Comment 2]]
 [^3]: [[MikeBraddock, March 2020]]

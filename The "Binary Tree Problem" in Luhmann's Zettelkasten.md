@@ -6,4 +6,6 @@ There is a claim that Luhmann's branching technique only allowed two children. A
 > 
 > But what about the third time you want to put an insight close? You cannot branch off into another dimension with this notation; there are only siblings and children in the tree of Folgezettel-IDs, aka 2 directions to grow, not three[^1]
 
+Next: [[The Fallacy of the "Binary Tree Problem"]]
+
 [^1]: [[ctietze, April 2020]]

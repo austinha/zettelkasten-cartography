@@ -1,4 +1,4 @@
-#meta/structure/structure-zettel 
+#meta/structure/structure-zettel #meta/structure/hub 
 
 # Properties of Luhmann's Zettelkasten
 The following were important properties of Luhmann's _physical_ Zettelkasten:

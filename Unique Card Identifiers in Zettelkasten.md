@@ -1,4 +1,4 @@
-#meta/structure/structure-zettel 
+#meta/structure/hub
 
 # Unique Card Identifiers in Zettelkasten
 

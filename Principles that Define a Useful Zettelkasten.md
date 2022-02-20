@@ -1,4 +1,4 @@
-#meta/structure/structure-zettel 
+#meta/structure/hub
 
 # Principles that Define a Useful Zettelkasten
 

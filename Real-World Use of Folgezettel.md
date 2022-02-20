@@ -1,4 +1,4 @@
-#meta/structure/structure-zettel 
+#meta/structure/structure-zettel #meta/structure/hub 
 
 # Real-World Use of Folgezettel
 [[The "Binary Tree Problem" in Luhmann's Zettelkasten]]
