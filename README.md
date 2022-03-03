@@ -7,6 +7,6 @@ It's important to note that this repo contains an archive that was created in Ob
 ## structure of the repo
 The archive contains four branches: 
 - `master`, which is the same as `direct-link-folgezettel`, except that it contains this readme.
-- `direct-link-folgezettel`, which is an archive that implements the Folgezettel technique using direct links between notes. Many of these "direct links" are prefixed by "Next: ". 
+- `direct-link-folgezettel`, which is an archive that implements the Folgezettel technique using direct links between notes. Many of these "direct links" are prefixed by "Next: ". Note that this archive **also contains Structure Notes**, as indicated by the tag `#meta/structure/structure-zettel`. This is because Obsidian allows you to filter results by tag.
 - `folgezettel-titles-only`, which is an archive that implements the Folgezettel technique using a special naming technique. Some notes contain direct links to other notes, tying Folgezettel together.
 - `structure-zettel-only` (to be renamed to `structure-notes-only` later), which is an archive that implements a Zettelkasten without heavy use of Folgezettel, opting for Structure Notes instead. Some notes contain direct links to other notes.
